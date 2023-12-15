@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krithik22
 - 👀 I’m interested in programming, web development and  sports
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning java and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krithiksaiprasad22@gamil.com
 
